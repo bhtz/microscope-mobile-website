@@ -3,6 +3,7 @@
 * Home
 
 * Getting started / CLI
+	* install nodejs
 	* install cli
 	* generate project with CLI
 	* generate project with prompt
@@ -29,10 +30,11 @@
 	* winjs
 		* navigation bar
 	
-* Devops
+* CI / Devops
 	* continuous integration ready
+		* jenkins docs
+		* VSO docs
 		* travis yml
 		* drone yml
-		* jenkins docs
 	* docker container ready
 		* dockerfile
