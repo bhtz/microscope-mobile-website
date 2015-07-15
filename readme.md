@@ -1,7 +1,5 @@
-microscope-angular
-==================
-
-AngularJS (CommonJS/ Browserify) starter kit.
+microscope-mobile website
+=========================
 
 [![Build Status](https://travis-ci.org/bhtz/microscope-angular.svg?branch=master)](https://travis-ci.org/bhtz/microscope-angular)
 
