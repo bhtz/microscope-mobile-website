@@ -13,13 +13,15 @@ var StartUp = require('./startUp');
 
 // Application modules
 require('./components/home/home');
+require('./components/docs/docs');
 
 // Injection
 var app = angular.module('app', [
 	'ngSanitize',
 	'ngRoute',
 	'hc.marked',
-	'app.home'
+	'app.home',
+	'app.docs'
 ]);
 
 app.config(['$routeProvider', Router]);

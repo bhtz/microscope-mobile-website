@@ -4,6 +4,7 @@ require('./tasks/build');
 require('./tasks/serve');
 require('./tasks/test');
 require('./tasks/docs');
+require('./tasks/watch');
 
 // default task => instanciate GulpForm
 gulp.task('default', function (cb) {
