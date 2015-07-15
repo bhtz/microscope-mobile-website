@@ -1,6 +1,13 @@
 # PLAN
 
 * Home
+	* jumbo / slider / parralax
+		* title
+		* slogan
+	* cards resume
+		* mobile / phonegap ready
+		* build process
+		* CI / DevOPS ready
 
 * Getting started / CLI
 	* install nodejs
