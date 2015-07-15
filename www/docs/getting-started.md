@@ -34,3 +34,4 @@ Generate project with CLI
 Run the following command:
 	
 		microscope-mobile new ionic sidemenu
+		
