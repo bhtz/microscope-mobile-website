@@ -2,7 +2,7 @@
 
 // Imports
 var angular = require('angular');
-require('jquery');
+window.jQuery = window.$ = require('jquery');
 require('angular-sanitize')
 require('angular-route');
 require('angular-marked');
